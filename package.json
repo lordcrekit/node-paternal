@@ -1,0 +1,9 @@
+{
+  "name": "node-paternal",
+  "version": "1.0.0",
+  "description": "Patterns for Node.js",
+  "main": "index.js",
+  "repository": "git@github.com:lordcrekit/node-paternal.git",
+  "author": "William Norman <lordcrekit@gmail.com>",
+  "license": "LGPL-3.0"
+}
