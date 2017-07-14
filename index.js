@@ -1,4 +1,11 @@
 /**
+ * Copyright 2017 Michigan State University
+ * Distributed under the terms of the GNU General Public License (LGPL)
+ *
+ * @author William A. Norman <norman.william.dev@gmail.com>
+ */
+
+/**
  * Execute series pattern on a set of functions. Each function will be run in
  *   order with no arguments. When all functions have run, cb() will be run.
  *
