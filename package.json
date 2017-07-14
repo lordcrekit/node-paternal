@@ -1,6 +1,6 @@
 {
   "name": "node-paternal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Patterns for Node.js",
   "main": "index.js",
   "repository": "git@github.com:lordcrekit/node-paternal.git",
