@@ -1,6 +1,6 @@
 {
   "name": "node-paternal",
-  "version": "1.1.0-preview",
+  "version": "1.1.0",
   "description": "Patterns for Node.js",
   "main": "index.js",
   "scripts": {
