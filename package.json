@@ -3,7 +3,13 @@
   "version": "1.1.0-preview",
   "description": "Patterns for Node.js",
   "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
   "repository": "git@github.com:lordcrekit/node-paternal.git",
   "author": "William Norman <lordcrekit@gmail.com>",
-  "license": "LGPL-3.0"
+  "license": "LGPL-3.0",
+  "devDependencies": {
+    "mocha": "^3.5.3"
+  }
 }
